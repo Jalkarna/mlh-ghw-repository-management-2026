@@ -1,0 +1,7 @@
+# Core application and authentication
+/src/app.py                  @Jalkarna
+/src/backend/database.py     @Jalkarna
+/src/backend/routers/auth.py @Jalkarna
+
+# Frontend
+/src/static/                 @Jalkarna
